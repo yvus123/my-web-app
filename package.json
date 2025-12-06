@@ -1,13 +1,14 @@
 {
   "name": "my-web-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "My web app project",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "yvus123",
   "license": "ISC",
   "type": "commonjs"
 }
